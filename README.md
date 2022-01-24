@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Cruz Lima from Argentina,
 - 👀 I’m interested in learn more about IT world
-- 🌱 I’m currently learning Java and Spring
+- 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on more projects!
 - 📫 How to reach me:
 limajuancruz.22@gmail.com
