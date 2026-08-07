@@ -1,14 +1,15 @@
-My name is Juan Cruz Lima, and I am a Systems Programming and Analysis Technician graduated from INCADE. I have experience in developing web and mobile applications, as well as optimizing code to improve performance. Currently, I work at Enviopack S.A. as a Full Stack Developer, using technologies such as PHP, Symfony, JavaScript, and React.
+My name is Juan Cruz Lima, and I am a Systems Programming and Analysis Technician graduated from INCADE. I have experience developing web applications using PHP, Python, JavaScript, and TypeScript, including microservices and microfrontend architectures.
+
+Currently, I work as a Full Stack Developer at Onetree, building an EdTech administrative platform for Pathful (US), using technologies such as Python, Next.js, and AWS.
 
 I am a professional committed to quality and excellence in everything I do. I enjoy working in teams and am known for my adaptability and problem-solving skills.
 
-Likewise, I am seeking opportunities to continue growing professionally, working with JavaScript and cloud technologies, preferably in an environment where I can use English daily.
+Likewise, I am seeking opportunities to continue growing professionally, working with cloud technologies and distributed architectures, preferably in an environment where I can use English daily.
 
 My tech stack includes:
-
 - PHP (Symfony, Laravel)
-- JavaScript (React, React Native, Node.js, Express.js)
-- TypeScript (NestJS, Next.js)
+- Python
+- JavaScript / TypeScript (React, Node.js, Express.js, NestJS, Next.js)
 - SQL (MySQL, PostgreSQL)
 - NoSQL (MongoDB)
 - AWS, Docker
